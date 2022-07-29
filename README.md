@@ -12,6 +12,6 @@ Current Languages:
 ![](https://img.shields.io/badge/-Lua-informational?style=flat&logo=lua&logoColor=white&color=2C2D72)
 
 Programming Status:
-![](https://img.shields.io/badge/-Somewhat_Beginner-informational?style=flat&color=ff9200)
+![](https://img.shields.io/badge/-Moderate-informational?style=flat&color=ffd414)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RockyRosso&theme=dark" />
