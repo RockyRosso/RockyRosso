@@ -18,10 +18,10 @@ My name is Rocky Rosso. I've been programming since 2020, and still somewhat lea
 
 ### Latest Repo
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RockyRosso&repo=Placement-System&theme=github_dark&description" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RockyRosso&repo=Placement-System&theme=apprentice&description" />
 
 ### Programming Status
 
 ![](https://img.shields.io/badge/-Moderate-informational?style=flat&color=ffd414)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RockyRosso&layout=compact&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RockyRosso&layout=compact&theme=apprentice" />
