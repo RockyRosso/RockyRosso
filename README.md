@@ -18,7 +18,7 @@ My name is Rocky Rosso. I've been programming since 2020, and still somewhat lea
 
 ### Latest Repo
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RockyRosso&repo=Placement-System&theme=github_dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RockyRosso&repo=Placement-System&theme=github_dark&description" />
 
 ### Programming Status
 
