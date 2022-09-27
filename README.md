@@ -18,10 +18,10 @@ My name is Rocky Rosso. I've been programming since 2020, and still somewhat lea
 
 ### Latest Repo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RockyRosso&repo=Placement-System&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RockyRosso&repo=Placement-System&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Programming Status
 
 ![](https://img.shields.io/badge/-Moderate-informational?style=flat&color=ffd414)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RockyRosso&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RockyRosso&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
