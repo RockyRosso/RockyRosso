@@ -1,5 +1,5 @@
 # Hi, I'm RockyRosso
-### 📝Current Projects:
+### 📝I make:
 
 🤖 Discord Bots | 🎮 Video Games | 🖥️ Websites
 
