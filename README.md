@@ -25,7 +25,7 @@ https://linktr.ee/RockyRosso
 
 ### 🕔 Latest Repo:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RockyRosso&repo=Placement-System&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RockyRosso&repo=Placement-System&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -35,4 +35,4 @@ https://linktr.ee/RockyRosso
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RockyRosso&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RockyRosso&layout=compact&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
