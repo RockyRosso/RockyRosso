@@ -48,5 +48,5 @@
   ☕ Buy me a coffee
   https://www.buymeacoffee.com/rockyrosso
   
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=rockyrosso&color=blue" />
 </div>
