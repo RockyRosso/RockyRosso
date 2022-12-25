@@ -4,22 +4,28 @@
 
 <div align="center">
   <h1>Skills</h1>
-  <table width="100%">
-    <tbody>
-      <tr>
-        <td width="50%" style="border: none !important;">
-        <div align="center">
-          <h3>📝I make</h3>
-          <img src="https://img.shields.io/badge/Discord Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/Video Games-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" /> <img src="https://img.shields.io/badge/Websites-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
-        </div>
-        <td width="50%" style="border: none !important;">
-        <div align="center">
-          <h3>✅ Current Languages</h3>
-          <img title="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /> <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> <img title="GDScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" /> <img title="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="40" /> <img title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" /> <img title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
-        </div>
-      </tr>
-    </tbody>
-  </table>
+  <div align="center">
+    <h3>📝I make</h3>
+    <img src="https://img.shields.io/badge/Discord Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/Video Games-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" /> <img src="https://img.shields.io/badge/Websites-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+  </div>
+
+  <div align="center">
+    <h3>✅ Current Languages / Tools</h3>
+    <img title="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /> 
+    <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> 
+    <img title="GDScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" /> 
+    <img title="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="40" /> 
+    <img title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode" />
+    <img src="https://clickup.com/images/brand-assets/logo-symbol-color.svg" width="40" title="ClickUp" />
+    <img src="https://user-images.githubusercontent.com/79947006/209476896-e8a10699-9d2b-48e2-af47-9b3a7a084e7e.png" width="40" title="Netlify" />
+  </div>
+  
+  <hr />
+    
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RockyRosso&layout=compact&theme=transparent" />
+  </div>
 </div>
 
 <div align="center">
@@ -27,15 +33,11 @@
   
   <div align="center">
     <h3>🕔 Latest Repo</h3>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RockyRosso&repo=Placement-System&theme=transparent" />
+    <a href="https://github.com/RockyRosso/Placement-System">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RockyRosso&repo=Placement-System&theme=transparent" />
+    </a>
   </div>
   
-  <hr />
-  
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RockyRosso&layout=compact&theme=transparent" />
-  </div>
-    
   <hr />
   
   🤙 Reach out to me
