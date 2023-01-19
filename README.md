@@ -6,7 +6,7 @@
   <h1>Skills</h1>
   <div align="center">
     <h3>📝I make</h3>
-    <img src="https://img.shields.io/badge/Discord Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/Video Games (LEARNING)-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" /> <img src="https://img.shields.io/badge/Websites-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/Websites-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
   </div>
 
   <div align="center">
