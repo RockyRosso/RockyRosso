@@ -2,14 +2,14 @@
 
 ![BMC Banner](https://user-images.githubusercontent.com/79947006/203442916-fcc987d9-3d50-4b51-985f-53d8e37f1fb7.jpg)
 
-<div align="center">
-  <h1>Skills</h1>
-  <div align="center">
-    <h3>📝I make</h3>
-    <img src="https://img.shields.io/badge/Discord Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/Websites-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
-  </div>
+# Skills
+### 📝I make
 
-  <div align="center">
+![Discordbots](https://img.shields.io/badge/Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Websites](https://img.shields.io/badge/Websites-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+
+<div>
+  <div>
     <h3>✅ Current Languages / Tools</h3>
     <img title="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /> 
     <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> 
@@ -20,29 +20,23 @@
     <img src="https://clickup.com/images/brand-assets/logo-symbol-color.svg" width="40" title="ClickUp" />
     <img src="https://user-images.githubusercontent.com/79947006/209476896-e8a10699-9d2b-48e2-af47-9b3a7a084e7e.png" width="40" title="Netlify" />
   </div>
-  
-  <hr />
-    
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RockyRosso&layout=compact&theme=transparent" />
-  </div>
 </div>
 
-<div align="center">
-  <h1>Activity</h1>
-  
-  <div align="center">
-    <h3>🕔 Latest Repo</h3>
-    <a href="https://github.com/RockyRosso/Placement-System">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RockyRosso&repo=Placement-System&theme=transparent" />
-    </a>
-  </div>
-  
-  <hr />
-  
-  🤙 Reach out to me
-  https://linktr.ee/RockyRosso
-  
-  ☕ Buy me a coffee
-  https://www.buymeacoffee.com/rockyrosso
-</div>
+---
+
+# Activity
+
+<h3>🕔 Latest Repo</h3>
+<a href="https://github.com/RockyRosso/Placement-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RockyRosso&repo=Placement-System&theme=transparent" />
+</a>
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RockyRosso&layout=compact&theme=transparent)
+
+---
+
+🤙 Reach out to me
+https://linktr.ee/RockyRosso
+
+☕ Buy me a coffee
+https://www.buymeacoffee.com/rockyrosso
