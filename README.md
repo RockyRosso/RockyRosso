@@ -31,6 +31,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RockyRosso&repo=Placement-System&theme=transparent" />
 </a>
 
+### Other
+
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RockyRosso&layout=compact&theme=transparent)
 
 ---
