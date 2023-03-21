@@ -17,7 +17,7 @@
     <img title="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="40" /> 
     <img title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode" />
-    <img src="https://clickup.com/images/brand-assets/logo-symbol-color.svg" width="40" title="ClickUp" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" title="ClickUp" />
     <img src="https://user-images.githubusercontent.com/79947006/209476896-e8a10699-9d2b-48e2-af47-9b3a7a084e7e.png" width="40" title="Netlify" />
   </div>
 </div>
