@@ -27,8 +27,8 @@
 # Activity
 
 <h3>🕔 Latest Repo</h3>
-<a href="https://github.com/RockyRosso/Rocky-Rosso-Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RockyRosso&repo=Rocky-Rosso-Website&theme=transparent" />
+<a href="https://github.com/RockyRosso/RoMinistrator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RockyRosso&repo=RoMinistrator&theme=transparent" />
 </a>
 
 ### Other
