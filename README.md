@@ -27,8 +27,8 @@
 # Activity
 
 <h3>🕔 Latest Repo</h3>
-<a href="https://github.com/RockyRosso/Placement-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RockyRosso&repo=Placement-System&theme=transparent" />
+<a href="https://github.com/RockyRosso/Rocky-Rosso-Website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RockyRosso&repo=Rocky-Rosso-Website&theme=transparent" />
 </a>
 
 ### Other
