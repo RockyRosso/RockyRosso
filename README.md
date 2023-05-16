@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=0055F7&center=true&vCenter=true&width=935&height=60&lines=Hi%2C+I'm+RockyRosso+%F0%9F%91%8B;I+enjoy+making+things+%F0%9F%99%82)](https://git.io/typing-svg)
 
-![BMC Banner](https://user-images.githubusercontent.com/79947006/203442916-fcc987d9-3d50-4b51-985f-53d8e37f1fb7.jpg)
-
 # Skills
 ### 📝I make
 
