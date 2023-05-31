@@ -35,8 +35,8 @@
 
 ---
 
-🤙 Reach out to me
-https://linktr.ee/RockyRosso
+🖥️ Check out by website
+https://rocky-rosso.xyz
 
 ☕ Buy me a coffee
 https://www.buymeacoffee.com/rockyrosso
