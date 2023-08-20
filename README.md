@@ -38,5 +38,4 @@
 🖥️ Check out by website
 https://rocky-rosso.xyz
 
-☕ Buy me a coffee
-https://www.buymeacoffee.com/rockyrosso
+💵 [Donate to me on PayPal](https://www.paypal.com/donate/?business=YQH2Z4CKRGEAY&no_recurring=0&currency_code=USD)
