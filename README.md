@@ -15,8 +15,8 @@
     <img title="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="40" /> 
     <img title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode" />
-    <img src="https://github.com/RockyRosso/RockyRosso/assets/79947006/b2c15e4b-5bc9-4f31-a659-6cc46354fa44" width="50" title="ClickUp" />
-    <img src="https://user-images.githubusercontent.com/79947006/209476896-e8a10699-9d2b-48e2-af47-9b3a7a084e7e.png" width="40" title="Netlify" />
+    <img src="https://github.com/RockyRosso/RockyRosso/assets/79947006/38147a57-ab5b-4383-ae54-a159f698b68e" width="50" title="Trello" />
+    <img src="https://user-images.githubusercontent.com/79947006/209476896-e8a10699-9d2b-48e2-af47-9b3a7a084e7e.png" width="40" title="Netlify">
   </div>
 </div>
 
