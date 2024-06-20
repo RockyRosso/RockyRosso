@@ -36,6 +36,6 @@
 ---
 
 🖥️ Check out by website
-https://rocky-rosso.xyz
+https://rockyrosso.xyz
 
 💵 [Donate to me on PayPal](https://www.paypal.com/donate/?business=YQH2Z4CKRGEAY&no_recurring=0&currency_code=USD)
