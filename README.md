@@ -1,24 +1,27 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=0055F7&center=true&vCenter=true&width=935&height=60&lines=Hi%2C+I'm+RockyRosso+%F0%9F%91%8B;I+enjoy+making+things+%F0%9F%99%82)](https://git.io/typing-svg)
 
 # Skills
-### 📝I make
+### 📝 I make
 
-![Discordbots](https://img.shields.io/badge/Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Websites](https://img.shields.io/badge/Websites-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-
-<div>
-  <div>
-    <h3>✅ Current Languages / Tools</h3>
-    <img title="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /> 
-    <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> 
-    <img title="GDScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" /> 
-    <img title="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" width="40" /> 
-    <img title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode" />
-    <img src="https://github.com/RockyRosso/RockyRosso/assets/79947006/38147a57-ab5b-4383-ae54-a159f698b68e" width="50" title="Trello" />
-    <img src="https://user-images.githubusercontent.com/79947006/209476896-e8a10699-9d2b-48e2-af47-9b3a7a084e7e.png" width="40" title="Netlify">
+<details>
+  <summary>🤖 Discord Bots</summary>
+  <h1>Common Stack</h1>
+  <div">
+    <img title="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+    <img title="oceanic.js" src="https://github.com/user-attachments/assets/478ef1a0-8a58-4b4f-acb0-f138e1ddf668" width="50" />
+    <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" />
+    <img title="Postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" />
   </div>
-</div>
+</details>
+<details>
+  <summary>💻 Websites</summary>
+  <h1>Common Stack</h1>
+  <div>
+    <img title="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+    <img title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="50" />
+    <img title="Astro" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="50" />
+  </div>
+</details>
 
 ---
 
