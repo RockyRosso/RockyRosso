@@ -43,4 +43,4 @@
 🖥️ Check out by website
 https://rockyrosso.xyz
 
-💵 [Donate to me on PayPal](https://www.paypal.com/donate/?business=YQH2Z4CKRGEAY&no_recurring=0&currency_code=USD)
+☕ [Buy me a coffee](https://buymeacoffee.com/rockyrosso)
