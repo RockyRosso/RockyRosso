@@ -28,8 +28,8 @@
 # Activity
 
 <h3>🕔 Latest Repo</h3>
-<a href="https://github.com/RockyRosso/rockyrosso.xyz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RockyRosso&repo=rockyrosso.xyz&theme=transparent" />
+<a href="https://github.com/RockyRosso/virtualpet-cs-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RockyRosso&repo=virtualpet-cs-project&theme=transparent" />
 </a>
 
 ### Other
