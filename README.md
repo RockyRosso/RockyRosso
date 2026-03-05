@@ -6,7 +6,7 @@
 <details>
   <summary>🤖 Discord Bots</summary>
   <h1>Common Stack</h1>
-  <div">
+  <div>
     <img title="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
     <img title="oceanic.js" src="https://github.com/user-attachments/assets/478ef1a0-8a58-4b4f-acb0-f138e1ddf668" width="50" />
     <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" />
@@ -20,6 +20,13 @@
     <img title="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
     <img title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="50" />
     <img title="Astro" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="50" />
+  </div>
+</details>
+<details>
+  <summary>☕ Java Apps</summary>
+  <h1>Common Stack</h1>
+  <div style="display: flex">
+    <img title="JavaFX" src="https://github.com/user-attachments/assets/33c654af-28d9-4bf3-9e16-ff20066280e5" width="150" />
   </div>
 </details>
 
